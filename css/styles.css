@@ -309,6 +309,9 @@ hr {
 .paper__lab {
   background-image: url("../img/Colorlab.jpg"); }
 
+  .paper__hle {
+    background-image: url("../img/Hle.jpg"); }
+
 .work__card {
   display: block;
   background-color: #ffffff;
