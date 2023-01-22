@@ -665,7 +665,7 @@ hr {
   .section__availability h2 {
     font-size: 2em; }
   .bootstrap-wrapper .col-lg-4 {
-    padding: 0 15px; }
+    padding: 0 15px !important; }
   .col-lg-4 .paper__image {
     margin-top: 50px;
     height: 220px; }
