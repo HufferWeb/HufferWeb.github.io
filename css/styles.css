@@ -312,6 +312,9 @@ hr {
   .paper__hle {
     background-image: url("../img/Hle.jpg"); }
 
+    .paper__ddg {
+      background-image: url("../img/ddg.png"); }
+
 .work__card {
   display: block;
   background-color: #ffffff;
@@ -372,6 +375,7 @@ hr {
   margin: 0 auto;
   max-height: 600px;
   padding-bottom: 5%;
+  background-color: #fff;
 }
 
 .footer {
